@@ -1,5 +1,4 @@
 data: - 29/04/2022
-DATA: 25/04/22	
 Medir a tensão da tomada do laboratório 18 no Senac: neutro com fase= 122,2 
 (Obs: utilizando um motimetro e calibrei para escala de corrente alternada de 200v)
 Testando a cuntinuidade do cado do Senac: 121,00(obs:usando a escala continua no multimetro)                                         
