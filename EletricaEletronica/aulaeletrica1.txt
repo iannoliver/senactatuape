@@ -1,1 +1,14 @@
-
+data: - 29/04/2022
+DATA: 25/04/22	
+Medir a tensão da tomada do laboratório 18 no Senac: neutro com fase= 122,2 
+(Obs: utilizando um motimetro e calibrei para escala de corrente alternada de 200v)
+Testando a cuntinuidade do cado do Senac: 121,00(obs:usando a escala continua no multimetro)                                         
+Teste do cabo: (Cabo bom) 00,00
+Testando a Corrente Contínua da Fonte 
+(Obs:3,3v-LA, 5V-VE e 12V_AM)
+teste de tensão na protoboard: 12V, 5,06V e 7,08V
+(obs: utilizando a mesma escala de contínua do multimetro)
+teste de correntes em coolers(obs: corrente sequencial e paralela entre coolers)
+teste em leds(obs: multimetro em escala NPN - LED)
+teste de utilização de resistor(obs: escala OHM de resistencia)
+teste em led na protobard(teste foi sucesso!!)
