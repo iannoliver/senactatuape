@@ -1,1 +1,10 @@
-
+DATA: 04/05/22	
+teste de corrente  e a tensão com protoboard:(obs utilizando dois multimetro em escalas: AMPERE e CORRENTE CONTÍNUA / e usando cooler) 
+12,13( corrente contínua) / 0,09(amperagem) = 1,0917(consumo de energia em watts em 1 único coolers)
+teste com corrente e tensão em fiação de sequência com 3 coolers:
+12,0 / 0,01
+teste de corrente com paralelo:
+11,8 / 0,27
+teste de corrente com led e com coolers:
+(teste com 3 LEDS correu bem)
+12,0 / 0,31
