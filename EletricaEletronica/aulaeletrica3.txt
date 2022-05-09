@@ -1,0 +1,6 @@
+Data: 09/05/2022
+Teste de tomada(com escala alternada): / fase com neutro: 124,1 / neutro com terra: 00,4 / fase com terra: 123,1
+Teste de tensão cabo de força(com escala contínua/ diodo): fase c/ fase: 00,0 / neutro c/ neutro 00,0 / terra c/ terra: 00,0
+teste de tensãocorrente alternada/ na tomada): fase com neutro: 124,0 / neutro com terra: 00,4 / fase com terra: 123,1
+Teste de resistência do cabo(ohms): fase c/ fase: 00,4 / neutro c/ neutro: 00,2 / terra c/ terra: 00,1
+Teste de fonte(com o power suply): -12v = 12.2 / +12v2 = 12,1 / 5vsb = 5,0 / PG = 260ms / +5v = 5,0 / +12v1 = 12,2 / +3,3v = 3,3
