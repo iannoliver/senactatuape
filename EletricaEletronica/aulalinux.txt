@@ -1,0 +1,13 @@
+Criação e linha do tempo do Linx:
+
+1991 --- Linux
+1991 --- Slackware
+--------------------
+1992 --- Debian
+     --- Red Hat
+---------------------
+2004 --- Ubuntu
+2006 --- Linux Mint
+
+Debian > Ubuntu > Mint
+Pacote: .deb GDEB
