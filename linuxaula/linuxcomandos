@@ -1,1 +1,21 @@
-
+sudo apt upgrade <--- atualizar as lista do apt
+ 
+ sudo apt upgrade <--- atualizar todos os software
+ 
+ sudo apt full-upgrade <--- autualizar todos os software
+ 
+ sudo apt dist-upgrade <--- atualiza o sistema operacional kernel
+ 
+ sudo apt autoremove <--- remoção e software não mais necessário
+ 
+ sudo apt autoclean <--- fazer a limpeza do sistema
+ 
+ sudo reboot <--- reiniciar 
+ 
+ sudo apt install <--- instalar aplicativos 
+ 
+ sudo apt install psesor 
+ sudo apt inatll p7zip-full p7zip-rar guvcview cheese
+ sudo apt install kazam audcity vlc koloupaint notepadqq
+ 
+ sudo init 0
