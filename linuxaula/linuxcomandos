@@ -18,4 +18,4 @@ sudo apt upgrade <--- atualizar as lista do apt
  sudo apt inatll p7zip-full p7zip-rar guvcview cheese
  sudo apt install kazam audcity vlc koloupaint notepadqq
  
- sudo init 0
+ sudo init 0 <-- NÂO APERTA NESSAPORRAARROMBADO =)
