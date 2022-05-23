@@ -19,3 +19,16 @@ sudo apt upgrade <--- atualizar as lista do apt
  sudo apt install kazam audcity vlc koloupaint notepadqq
  
  sudo init 0 <-- NÂO APERTA NESSAPORRAARROMBADO =)
+
+VScode - 
+
+git clone (Clonar um repositório remoto)
+git pull (Atualizar o repositório local)
+
+git config --global user.name (Usuário de commint)
+git config --global user.email (Usuário de Acesso)
+git cinfig --list (Listar as Confiruações)
+
+git add (Adicionar as mudanças)
+git commit -m "Atualizacao" (Confirmar as mudanças)
+git punch (Atualizar o Repositório remoto)
