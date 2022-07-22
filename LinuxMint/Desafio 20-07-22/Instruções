@@ -1,0 +1,64 @@
+Objetivo da aula de hoje: 20/07/2022
+
+NÃO ESQUEÇA DE FAZER PRIMEIRO A ATUALIZAÇÃO DO SISTEMA:
+	#01_ Utilizar o MintUpdate
+	#02_ Utilizar o Apt:
+		sudo apt update
+		sudo apt upgrade
+		sudo apt full-upgrade
+		sudo apt dist-upgrade
+		sudo apt autoremove
+		sudo apt autoclean
+		
+Desafio-01: usar como referência o Vídeo e Script no Github
+Dell G3 3590 Instalação do Linux Mint 20.3 Una (Primeira Parte) 
+YouTUBE: https://www.youtube.com/watch?v=npQ0kjuxz9c&
+Github.: https://github.com/vaamonde/dell-linuxmint/blob/master/04-g3-3590.md
+
+Desafio-02: usar como referência o Vídeo e Script no Github
+Dell G3 3590 Configuração do Linux Mint 20.3 Una (Segunda Parte)
+YouTUBE: https://www.youtube.com/watch?v=faTRvAzAsnI&t
+Github.: https://github.com/vaamonde/dell-linuxmint/blob/master/04-g3-3590.md
+
+Desafio-03: usar como referência o Vídeo e Script no Github
+COMO instalar o Oracle VirtualBOX 6.1 no Linux Mint 20.3
+YouTUBE: https://www.youtube.com/watch?v=yTihvAaaxpU&t
+https://github.com/vaamonde/dell-linuxmint/blob/master/software/01-virtualbox.md
+
+Desafio-04: usar como referência o Vídeo e Script no Github
+COMO instalar o VMware Workstation Pro 16 no Linux Mint 20.3
+YouTUBE: https://www.y12outube.com/watch?v=Uv2mebfheaI&t
+Github.: https://github.com/vaamonde/dell-linuxmint/blob/master/software/02-vmware.md
+
+Desafio-05: usar como referência o Vídeo e Script no Github
+COMO instalar o Cisco Packet Tracer versão 8.1.1 no Linux Mint 20.3 
+YouTUBE: https://www.youtube.com/watch?v=yFS2d93-hbw&t
+Github.: https://github.com/vaamonde/dell-linuxmint/blob/master/software/05-packettracer.md
+
+Desafio-06: usar como referência o Vídeo e Script no Github
+COMO instalar o Terminal TILIX e OH MY ZSH no Linux Mint 20.3 
+YouTUBE: https://www.youtube.com/watch?v=0BrJ8jWbTko&t
+Github.: https://github.com/vaamonde/dell-linuxmint/blob/master/software/06-tilix.md
+
+Desafio-07: usar como referência o Vídeo e Script no Github
+COMO instalar o POWERSHELL 7.2 .NET SDK e RUNTIME no Linux Mint 20.3 
+YouTUBE: https://www.youtube.com/watch?v=1yUXXUtvl0o&t
+Github.: https://github.com/vaamonde/dell-linuxmint/blob/master/software/09-powershell.md
+
+Desafio-08: usar como referência o Vídeo e Script no Github
+Como Instalar o Visual Studio Code no Linux Mint 20.2 Uma
+YouTUBE: https://www.youtube.com/watch?v=faS3gZgKE-A&t
+Github.: https://github.com/vaamonde/dell-linuxmint/blob/master/software/10-vscode.md
+
+Desafio-09: INSTALAÇÃO DOS NAVEGADORES:
+	Google Chrome;
+	Opera;
+	Microsoft Edge;
+	Vivaldi;
+	Tor.
+	
+Desafio-10: usar como referência o Vídeo e Script no Github
+COMO instalar o CLONE HERO 0.22.5 no Linux Mint 19.2 Tina (Nova versão: v0.23.2.2)
+YouTUBE: https://www.youtube.com/watch?v=hwo-Fnj5cG0
+Github.: https://github.com/vaamonde/senactat/blob/main/linuxmint/CloneHeroSongs-Setlists-and-Backgrounds-MasterList.xlsx
+Github.: https://github.com/vaamonde/senactat/blob/main/linuxmint/Configura%C3%A7%C3%A3oCloneHero.pdf
