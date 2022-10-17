@@ -87,6 +87,22 @@ sw-g03(config-line)#
 		    
 sw-g03(config-line)#transport input ssh(feito no vty)
 
+ !Configuração do Dominio
+                  ip domain-name cisco.com
+
+                  !criar uma chave publica/privada do ssh
+                  crypto key generate rsa general-keys modulus 1024
+
+                  !Habilitar a versão 2 do ssh
+                  ip ssh version 2
+
+                  !tempo de inatividade
+                  ip ssh time-out 60
+
+                  !configurar o número maxima de conexões
+                  ip ssh authentication-retries 2 
+		  
+
 
 
 
