@@ -4,8 +4,63 @@
     box-sizing: border-box;
 }
 .header{
+    flex-wrap: wrap;
     flex-basis: 100%;
     padding: 20px;
-    background-color: brown;
+    background-color: rgb(165, 42, 42);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.img2{
+    width: 100px;
+}
+.img3{
+    width: 100px;
+}
+.mainSection{
+    background-color: rgb(34, 29, 71);
+}
+.conteiner{
+    flex-wrap: wrap;
+    flex: 1 0 auto;
+    padding: 10px;
+    min-height: 70vh;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px 20px;
+    grid-auto-rows: minmax(210px, 250px);
+}
+.item{
+    border: 2px solid black;
+    background-color: white;
+    font-size: 20px;
+    padding: 10px;
+    border: 5px solid transparent;
+    border-radius: 10px;
+    transition: 0.5s;
+    cursor: pointer;
+    flex-wrap: wrap;
+}
+.item:hover{
+    border-color: brown;
+}
+.title{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.paragraph{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.footer{
+    width: 100%;
+    min-height: 70px;
+    background-color:  brown;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 15px;
+}
+.ancor{
     color: white;
 }
